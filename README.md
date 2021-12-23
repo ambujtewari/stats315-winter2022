@@ -62,8 +62,8 @@ Lecture No. | Date | Topic | Reading Assignment | Lab Topic
 00     | Jan 06 | Course logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 --     |        | Basic Elements of Linear Regression | D2L, Sec. 3.1.1
 --     |        | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4 | Linear regression implementation from scratch
---     |        | Classification Problem <br/> Network Architecture <br/> Parameterization Cost of Fully-Connected Layers <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
---     |        | GD, SGD, Adam |
+--     |        | Classification Problem <br/> Network Architecture <br/> Parameterization Cost <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
+--     |        | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 | Softmax regression implementation from scratch
 --     |        | Overfitting and cross-validation |
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | Perceptrons and activation functions | --
