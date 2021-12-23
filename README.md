@@ -52,12 +52,24 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |       | **Basics** |
 00     | Jan 06 | Introduction | --
 --     |        | Models
---     |        | Loss functions |
+--     |        | Loss functions and regularizers |
 --     |        | Derivatives, Gradients, Chain Rule |
 --     |        | GD, SGD, Adam |
+--     |        | Overfitting and cross-validation |
 &nbsp; |        | **Multilayer Perceptrons** |
---     |        | -- | --
+--     |        | Perceptrons and activation functions | --
+--     |        | Multilayer perceptrons, Backprop | --
+--     |        | Universal Approximation | --
+--     |        | Depth | --
 &nbsp; |        | **Convolutional Neural Networks and Vision** |
---     |        | -- | --
+--     |        | Convolutions and Pooling | --
+--     |        | Multilayer convolutions | --
 &nbsp; |        | **Sequence Models and Language** |
 --     |        | -- | --
+
+## Mini-projects
+
+1. Linear classifier on MNIST using Python+Numpy
+2. MLP on MNIST using Tensorflow/Keras
+3. CNN on MNIST using Tensorflow/Keras
+4. Sequence model on some NLP task
