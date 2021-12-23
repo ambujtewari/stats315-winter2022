@@ -50,10 +50,16 @@ Students may experience stressors that can impact both their academic experience
 
 ## Schedule
 
+IDL = _Introduction to Deep Learning_ by Charniak
+DLPy = _Deep Learning with Python (2nd edition)_ by Chollet
+DL = _Deep Learning_ by Goodfellow, Bengio and Courville
+NNDL = _Neural Networks and Deep Learning_ by Nielsen
+D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola
+
 Lecture No. | Date | Topic | Reading Assignment
 ---    | ---    | --- | ---
 &nbsp; |       | **Basics** |
-00     | Jan 06 | Introduction | --
+00     | Jan 06 | Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 --     |        | Models
 --     |        | Loss functions and regularizers |
 --     |        | Derivatives, Gradients, Chain Rule |
