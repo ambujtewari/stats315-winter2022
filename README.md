@@ -31,7 +31,8 @@ This is an introductory deep learning course using the Python programming langua
 
 ## Grading
 
-TBD
+- Weekly quizzes (60%): We will only use your top 10 scores
+- Mini-projects (40%): Four projects with a substantial lab component
 
 ## Academic Integrity
 
