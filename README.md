@@ -62,7 +62,7 @@ Lecture No. | Date | Topic | Reading Assignment
 00     | Jan 06 | Course logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 --     |        | Basic Elements of Linear Regression | D2L, Sec. 3.1.1
 --     |        | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4
---     |        | Derivatives, Gradients, Chain Rule |
+--     |        | Classification Problem <br/> Network Architecture <br/> Parameterization Cost of Fully-Connected Layers <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
 --     |        | GD, SGD, Adam |
 --     |        | Overfitting and cross-validation |
 &nbsp; |        | **Multilayer Perceptrons** |
