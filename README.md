@@ -48,12 +48,13 @@ Students may experience stressors that can impact both their academic experience
 ## Schedule
 
 Lecture No. | Date | Topic | Reading Assignment
---- | ---    | --- | ---
+---    | ---    | --- | ---
 &nbsp; |       | **Background** |
-00  | Jan 06 | Introduction | --
---  | --     | **Multilayer Perceptrons** | --
---  | --     | -- | --
---  | --     | **Convolutional Neural Networks and Vision** | --
---  | --     | -- | --
---  | --     | **Sequence Models and Language** | --
---  | --     | -- | --
+00     | Jan 06 | Introduction | --
+--     |        |
+&nbsp; |        | **Multilayer Perceptrons** |
+--     |        | -- | --
+&nbsp; |        | **Convolutional Neural Networks and Vision** |
+--     |        | -- | --
+&nbsp; |        | **Sequence Models and Language** |
+--     |        | -- | --
