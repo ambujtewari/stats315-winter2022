@@ -59,7 +59,7 @@ D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola
 Lecture No. | Date | Topic | Reading Assignment
 ---    | ---    | --- | ---
 &nbsp; |       | **Basics** |
-00     | Jan 06 | Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
+00     | Jan 06 | Course Logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 --     |        | Models
 --     |        | Loss functions and regularizers |
 --     |        | Derivatives, Gradients, Chain Rule |
