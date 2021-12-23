@@ -64,6 +64,7 @@ Lecture No. | Date | Topic | Reading Assignment | Lab Topic
 02     | Jan 13 | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4 | Linear regression implementation from scratch
 03     | Jan 18 | Classification Problem <br/> Network Architecture <br/> Parameterization Cost <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
 04     | Jan 20 | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 | Softmax regression implementation from scratch
+&nbsp; |       | **TensorFLow/Keras** |
 05     | Jan 25 | TensorFlow, Keras, Google Colab | DLPy, Sec. 3.1-3.4
 06     | Jan 27 | First steps with Tensorflow | DLPy, Sec. 3.5 | Linear classifier in pure TensorFlow
 07     | Feb 01 | Keras Layers | DLPy, Sec. 3.6
