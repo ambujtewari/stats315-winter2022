@@ -49,7 +49,7 @@ Students may experience stressors that can impact both their academic experience
 
 Lecture No. | Date | Topic | Reading Assignment
 --- | ---    | --- | ---
-    |       | **Background** | --
+&nbsp; |       | **Background** | --
 00  | Jan 06 | Introduction | --
 --  | --     | **Multilayer Perceptrons** | --
 --  | --     | -- | --
