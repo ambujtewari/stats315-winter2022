@@ -64,7 +64,8 @@ Lecture No. | Date | Topic | Reading Assignment | Lab Topic
 --     |        | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4 | Linear regression implementation from scratch
 --     |        | Classification Problem <br/> Network Architecture <br/> Parameterization Cost <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
 --     |        | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 | Softmax regression implementation from scratch
---     |        | Overfitting and cross-validation |
+--     |        | TensorFlow, Keras, Google Colab | DLPy, Sec. 3.1-3.4
+--     |        | Tensors, Layers | DLPy, Sec. 3.5-3.6 | TensorFlow, Keras, Google Colab
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | Perceptrons and activation functions | --
 --     |        | Multilayer perceptrons, Backprop | --
