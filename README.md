@@ -57,7 +57,7 @@ NNDL = _Neural Networks and Deep Learning_ by Nielsen
 D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola    
 
 Lecture No. | Date | Topic | Reading Assignment | Lab Topic
----    | ---    | --- | ---
+---         | ---  | ---   | ---                | ---
 &nbsp; |       | **Basics** |
 00     | Jan 06 | Course logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 --     |        | Basic Elements of Linear Regression | D2L, Sec. 3.1.1
