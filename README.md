@@ -65,7 +65,9 @@ Lecture No. | Date | Topic | Reading Assignment | Lab Topic
 --     |        | Classification Problem <br/> Network Architecture <br/> Parameterization Cost <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
 --     |        | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 | Softmax regression implementation from scratch
 --     |        | TensorFlow, Keras, Google Colab | DLPy, Sec. 3.1-3.4
---     |        | Tensors, Layers | DLPy, Sec. 3.5-3.6 | TensorFlow, Keras, Google Colab
+--     |        | First steps with Tensorflow | DLPy, Sec. 3.5 | Linear classifier in pure TensorFlow
+--     |        | Keras Layers | DLPy, Sec. 3.6
+--     |        | Machine learning fundamentals | DLPy, Ch. 5 | Regularization and generalization
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | Perceptrons and activation functions | --
 --     |        | Multilayer perceptrons, Backprop | --
