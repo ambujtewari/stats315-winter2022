@@ -51,3 +51,5 @@ Lecture No. | Date | Topic | Reading Assignment
 --- | ---    | --- | ---
 --  | --     | **Background** | --
 00  | Jan 06 | Introduction | --
+--  | --     | **Multilayer Perceptrons** | --
+--  | --     | -- | --
