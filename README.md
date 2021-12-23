@@ -60,7 +60,7 @@ Lecture No. | Date | Topic | Reading Assignment
 ---    | ---    | --- | ---
 &nbsp; |       | **Basics** |
 00     | Jan 06 | Course Logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
---     |        | Models
+--     |        | Linear regression | D2L, Sec. 3.1
 --     |        | Loss functions and regularizers |
 --     |        | Derivatives, Gradients, Chain Rule |
 --     |        | GD, SGD, Adam |
