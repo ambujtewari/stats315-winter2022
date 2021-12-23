@@ -34,7 +34,7 @@ This is an introductory deep learning course using the Python programming langua
 ## Grading
 
 - Weekly quizzes (60%): We will only use your top 10 scores
-- Mini-projects (40%): Four projects with a substantial lab component
+- Homeworks (40%): Four homeworks with a substantial coding component
 
 ## Academic Integrity
 
@@ -76,9 +76,3 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **Sequence Models and Language** |
 --     |        | -- | --
 
-## Mini-projects
-
-1. Linear classifier on MNIST using Python+Numpy
-2. MLP on MNIST using Tensorflow/Keras
-3. CNN on MNIST using Tensorflow/Keras
-4. Sequence model on some NLP task
