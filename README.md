@@ -53,3 +53,7 @@ Lecture No. | Date | Topic | Reading Assignment
 00  | Jan 06 | Introduction | --
 --  | --     | **Multilayer Perceptrons** | --
 --  | --     | -- | --
+--  | --     | **Convolutional Neural Networks and Vision** | --
+--  | --     | -- | --
+--  | --     | **Sequence Models and Language** | --
+--  | --     | -- | --
