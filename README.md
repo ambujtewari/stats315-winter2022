@@ -59,9 +59,9 @@ D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola
 Lecture No. | Date | Topic | Reading Assignment
 ---    | ---    | --- | ---
 &nbsp; |       | **Basics** |
-00     | Jan 06 | Course Logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
---     |        | Linear regression | D2L, Sec. 3.1
---     |        | Loss functions and regularizers |
+00     | Jan 06 | Course logistics <br/> Introduction | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
+--     |        | Basic Elements of Linear Regression | D2L, Sec. 3.1.1
+--     |        | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4
 --     |        | Derivatives, Gradients, Chain Rule |
 --     |        | GD, SGD, Adam |
 --     |        | Overfitting and cross-validation |
