@@ -51,7 +51,10 @@ Lecture No. | Date | Topic | Reading Assignment
 ---    | ---    | --- | ---
 &nbsp; |       | **Background** |
 00     | Jan 06 | Introduction | --
---     |        |
+--     |        | Models
+--     |        | Loss functions |
+--     |        | Derivatives, Gradients, Chain Rule |
+--     |        | GD, SGD, Adam |
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | -- | --
 &nbsp; |        | **Convolutional Neural Networks and Vision** |
