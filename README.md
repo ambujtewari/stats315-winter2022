@@ -48,5 +48,6 @@ Students may experience stressors that can impact both their academic experience
 ## Schedule
 
 Lecture No. | Date | Topic | Reading Assignment
---- | --- | --- | ---
-00 | Jan 06 | Introduction | --
+--- | ---    | --- | ---
+    | ---    | **Background** | --
+00  | Jan 06 | Introduction | --
