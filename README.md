@@ -30,7 +30,7 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 **Name**: Vinod Raman  
 **Email**: [vkraman@umich.edu](mailto:vkraman@umich.edu)
 
-**Lab webpage** (also has GSI office hours info): TBD
+**Lab webpage** (also has GSI office hours info): [https://yashpatel5400.github.io/stats315-winter2022lab/](https://yashpatel5400.github.io/stats315-winter2022lab/)
 
 ## Grading
 
