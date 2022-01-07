@@ -24,14 +24,13 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 
 ## GSI Information
 
-**Lab webpage** (also has GSI office hours info): TBD
-
 **Name**: Yash Patel    
 **Email**: [yppatel@umich.edu](mailto:yppatel@umich.edu)
 
 **Name**: Vinod Raman  
 **Email**: [vkraman@umich.edu](mailto:vkraman@umich.edu)
 
+**Lab webpage** (also has GSI office hours info): TBD
 
 ## Grading
 
