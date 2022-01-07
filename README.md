@@ -60,19 +60,19 @@ DL = _Deep Learning_ by Goodfellow, Bengio and Courville
 NNDL = _Neural Networks and Deep Learning_ by Nielsen    
 D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola    
 
-Lecture No. | Date | Topic | Reading Assignment | Lab Topic
----         | ---  | ---   | ---                | ---
+Lecture No. | Date | Topic | Reading Assignment 
+---         | ---  | ---   | ---               
 &nbsp; |       | **Basics** |
 01     | Jan 06 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1i2g3yoxzL_sciLtKmJrb2EWFRnaFm1vzmzvMSg9oSeo/edit?usp=sharing) | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 02     | Jan 11 | Basic Elements of Linear Regression | D2L, Sec. 3.1.1
-03     | Jan 13 | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4 | Linear regression implementation from scratch
+03     | Jan 13 | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4 
 04     | Jan 18 | Classification Problem <br/> Network Architecture <br/> Parameterization Cost <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
-05     | Jan 20 | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 | Softmax regression implementation from scratch
+05     | Jan 20 | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 
 &nbsp; |       | **TensorFlow/Keras** |
 06     | Jan 25 | TensorFlow, Keras, Google Colab | DLPy, Sec. 3.1-3.4
-07     | Jan 27 | First steps with Tensorflow | DLPy, Sec. 3.5 | Linear classifier in pure TensorFlow
+07     | Jan 27 | First steps with Tensorflow | DLPy, Sec. 3.5 
 08     | Feb 01 | Keras Layers | DLPy, Sec. 3.6
-09     | Feb 03 | Machine learning fundamentals | DLPy, Ch. 5 | Regularization and generalization
+09     | Feb 03 | Machine learning fundamentals | DLPy, Ch. 5 
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | Perceptrons and activation functions | --
 --     |        | Multilayer perceptrons, Backprop | --
