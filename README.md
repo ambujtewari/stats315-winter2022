@@ -16,22 +16,20 @@ This is an introductory deep learning course using the Python programming langua
 
 ## Instructor Information
 
-_Note: Due to the omicron surge, all office hours (instructor and GSIs) will be held via zoom until further notice._ (Zoom links coming soon)
+_Note: Due to the omicron surge, all office hours will be held via zoom until further notice._
 
 **Name**: Ambuj Tewari  
-**Office Hours**: Tue and Thu, 11:30-1    
+**Office Hours**: Tue and Thu, 11:30-1 ([zoom link](https://umich.zoom.us/j/93781998446))    
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
 
-**Name**: Yash Patel   
-**Lab Webpage**: TBD   
-**Office Hours**: Mon and Wed, 4-5:30    
+**Lab webpage** (also has GSI office hours info): TBD
+
+**Name**: Yash Patel    
 **Email**: [yppatel@umich.edu](mailto:yppatel@umich.edu)
 
 **Name**: Vinod Raman  
-**Lab Webpage**: TBD    
-**Office Hours**: Tue and Fri, 1-2:30    
 **Email**: [vkraman@umich.edu](mailto:vkraman@umich.edu)
 
 
