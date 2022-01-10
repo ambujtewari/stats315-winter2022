@@ -57,11 +57,13 @@ DL = _Deep Learning_ by Goodfellow, Bengio and Courville
 NNDL = _Neural Networks and Deep Learning_ by Nielsen    
 D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola    
 
+_Note_: A "V" in the date column denotes a virtual lecture.
+
 Lecture No. | Date | Topic | Reading Assignment 
 ---         | ---  | ---   | ---               
 &nbsp; |       | **Basics** |
 01     | Jan 06 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1i2g3yoxzL_sciLtKmJrb2EWFRnaFm1vzmzvMSg9oSeo/edit?usp=sharing) | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
-02     | Jan 11 | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1mlwk7Y89Jmxzn-f22lSIWVZdXLBcaDPBx7VJfLrxLvw/edit?usp=sharing) | D2L, Sec. 3.1.1
+02     | Jan 11 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1mlwk7Y89Jmxzn-f22lSIWVZdXLBcaDPBx7VJfLrxLvw/edit?usp=sharing) | D2L, Sec. 3.1.1
 03     | Jan 13 | The Normal Distribution and Squared Loss <br/> From Linear Regression to Deep Networks <br/> [slides](https://docs.google.com/presentation/d/1oSQes_xa7JhJ7kfsrGuD7RhLnm7tw75AlnNdkCyynL0/edit?usp=sharing) | D2L, Sec. 3.1.3 <br/> D2L, Sec. 3.1.4 
 04     | Jan 18 | Classification Problem <br/> Network Architecture <br/> Parameterization Cost <br/> Softmax Operation | D2L, Sec. 3.4.1 <br/> D2L, Sec. 3.4.2 <br/> D2L, Sec. 3.4.3 <br/> D2L, Sec. 3.4.4
 05     | Jan 20 | Loss Function <br/> Information Theory Basics | D2L, Sec. 3.4.6 <br/> D2L, Sec. 3.4.7 
