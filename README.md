@@ -12,7 +12,7 @@ This is an introductory deep learning course using the Python programming langua
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/516592) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
 - **Slack**: The course slack workspace is at [um-wn22-stats315.slack.com](https://um-wn22-stats315.slack.com) (requires UM login)
 - **Days and Times**: Tuesdays and Thursdays, 10-11:30
-- **Location**: [B1580 BUS](https://maps.studentlife.umich.edu/building/jeff-t-blau-hall)
+- **Location**: [B1580 BUS](https://maps.studentlife.umich.edu/building/jeff-t-blau-hall) (for virtual lectures, you can find zoom link in canvas or slack)
 
 ## Instructor Information
 
