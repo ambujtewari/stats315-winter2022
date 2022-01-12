@@ -24,11 +24,11 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 
 ## GSI Information
 
-**Name**: Yash Patel    
-**Email**: [yppatel@umich.edu](mailto:yppatel@umich.edu)
-
-**Name**: Vinod Raman  
+**Name**: Vinod Raman (Lab 002 Th 8:30-10)  
 **Email**: [vkraman@umich.edu](mailto:vkraman@umich.edu)
+
+**Name**: Yash Patel (Lab 003 Th 2:30-4)    
+**Email**: [yppatel@umich.edu](mailto:yppatel@umich.edu)
 
 **Lab webpage** (also has GSI office hours info): [https://yashpatel5400.github.io/stats315-winter2022lab/](https://yashpatel5400.github.io/stats315-winter2022lab/)
 
