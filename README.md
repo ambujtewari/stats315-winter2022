@@ -68,7 +68,7 @@ Lecture No. | Date | Topic | Reading Assignment
 04     | Jan 18 | Softmax Operation <br/> Loss Function <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1MyEGh1iCxWssAIAoI9-XCU-HB2-UBj0mkv-UEv-IY3o/edit?usp=sharing)|  D2L, Sec. 3.4.4 <br/> D2L, Sec. 3.4. <br/> D2L, Sec. 3.4.7 
 05     | Jan 20 |  | TBD
 &nbsp; |       | **TensorFlow/Keras** |
-06     | Jan 25 | TensorFlow, Keras, Google Colab | DLPy, Sec. 3.1-3.4
+06     | Jan 25 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
 07     | Jan 27 | First steps with Tensorflow | DLPy, Sec. 3.5 
 08     | Feb 01 | Keras Layers | DLPy, Sec. 3.6
 09     | Feb 03 | Machine learning fundamentals | DLPy, Ch. 5 
