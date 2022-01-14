@@ -66,7 +66,7 @@ Lecture No. | Date | Topic | Reading Assignment
 02     | Jan 11 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1mlwk7Y89Jmxzn-f22lSIWVZdXLBcaDPBx7VJfLrxLvw/edit?usp=sharing) | D2L, Sec. 3.1.1
 03     | Jan 13 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1oSQes_xa7JhJ7kfsrGuD7RhLnm7tw75AlnNdkCyynL0/edit?usp=sharing) | D2L, Sec. 3.1.1
 05     | Jan 18 | Regression wrap-up <br/> Classification <br/> [slides](https://docs.google.com/presentation/d/1MyEGh1iCxWssAIAoI9-XCU-HB2-UBj0mkv-UEv-IY3o/edit?usp=sharing) | D2L, Sec. 3.1.3-4 <br/> D2L, Sec. 3.4.1-3
-04     | Jan 20 | Softmax Operation <br/> Loss Function <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1dJNBtz4V2_fw_pDOK63Ka9igZpLALI2icdvLZi8n4UQ/edit?usp=sharing)|  D2L, Sec. 3.4.4 <br/> D2L, Sec. 3.4. <br/> D2L, Sec. 3.4.7 
+04     | Jan 20 | Softmax Operation <br/> Loss Function <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1dJNBtz4V2_fw_pDOK63Ka9igZpLALI2icdvLZi8n4UQ/edit?usp=sharing)|  D2L, Sec. 3.4.4 <br/> D2L, Sec. 3.4.6-7 
 &nbsp; |       | **TensorFlow/Keras** |
 06     | Jan 25 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
 07     | Jan 27 | First steps with Tensorflow | DLPy, Sec. 3.5 
