@@ -65,13 +65,14 @@ Lecture No. | Date | Topic | Reading Assignment
 01     | Jan 06 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1i2g3yoxzL_sciLtKmJrb2EWFRnaFm1vzmzvMSg9oSeo/edit?usp=sharing) | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
 02     | Jan 11 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1mlwk7Y89Jmxzn-f22lSIWVZdXLBcaDPBx7VJfLrxLvw/edit?usp=sharing) | D2L, Sec. 3.1.1
 03     | Jan 13 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1oSQes_xa7JhJ7kfsrGuD7RhLnm7tw75AlnNdkCyynL0/edit?usp=sharing) | D2L, Sec. 3.1.1
-04     | Jan 18 <br/> V | Regression wrap-up <br/> Classification <br/> [slides](https://docs.google.com/presentation/d/1MyEGh1iCxWssAIAoI9-XCU-HB2-UBj0mkv-UEv-IY3o/edit?usp=sharing) | D2L, Sec. 3.1.3-4 <br/> D2L, Sec. 3.4.1-3
-05     | Jan 20 <br/> V | Softmax Operation <br/> Loss Function <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1dJNBtz4V2_fw_pDOK63Ka9igZpLALI2icdvLZi8n4UQ/edit?usp=sharing)|  D2L, Sec. 3.4.4 <br/> D2L, Sec. 3.4.6-7 
+04     | Jan 18 <br/> V | Regression wrap-up <br/> Classification <br/> [slides](https://docs.google.com/presentation/d/1MyEGh1iCxWssAIAoI9-XCU-HB2-UBj0mkv-UEv-IY3o/edit?usp=sharing) | D2L, Sec. 3.1.3-4 <br/> D2L, Sec. 3.4.1
+05     | Jan 20 <br/> V | Softmax Operation <br/> Cross Entropy Loss Function [slides](https://docs.google.com/presentation/d/1dJNBtz4V2_fw_pDOK63Ka9igZpLALI2icdvLZi8n4UQ/edit?usp=sharing)|  D2L, Sec. 3.4.2-4 <br/> D2L, Sec. 3.4.6.1 
+06     | Jan 25 <br/> V | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1P4VMvq1TboRZSDMHXc2HopTlSFC28kxw5Sm7BjFgnvI/edit?usp=sharing)|  D2L, Sec. 3.4.6.2-3 <br/> D2L, Sec. 3.4.7
 &nbsp; |       | **TensorFlow/Keras** |
-06     | Jan 25 | TensorFlow, Keras, Google Colab <br/> First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.1-3.5
-07     | Jan 27 | Keras Layers | DLPy, Sec. 3.6
-08     | Feb 01 | Machine learning fundamentals | DLPy, Ch. 5 
-09     | Feb 03 | TBD | TBD
+06     | Jan 27 | TensorFlow, Keras, Google Colab <br/> First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.1-3.5
+07     | FEb 01 | Keras Layers | DLPy, Sec. 3.6
+08     | Feb 03 | Machine learning fundamentals | DLPy, Ch. 5 
+09     | Feb 08 | TBD | TBD
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | Perceptrons and activation functions | --
 --     |        | Multilayer perceptrons, Backprop | --
