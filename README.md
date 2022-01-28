@@ -69,8 +69,8 @@ Lecture No. | Date | Topic | Reading Assignment
 05     | Jan 20 <br/> V | Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://docs.google.com/presentation/d/1dJNBtz4V2_fw_pDOK63Ka9igZpLALI2icdvLZi8n4UQ/edit?usp=sharing)|  D2L, Sec. 3.4.2-4 <br/> D2L, Sec. 3.4.6.1 
 06     | Jan 25 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1P4VMvq1TboRZSDMHXc2HopTlSFC28kxw5Sm7BjFgnvI/edit?usp=sharing)|  D2L, Sec. 3.4.6.2-3 <br/> D2L, Sec. 3.4.7
 &nbsp; |        | **TensorFlow/Keras** |
-07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.1-3.5
-08     | Feb 01 | Keras Layers | DLPy, Sec. 3.6
+07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
+08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.5
 09     | Feb 03 | Machine learning fundamentals <br/> <span style="color:red">Assignment 1 due</span> | DLPy, Ch. 5 
 10     | Feb 08 | TBD | TBD
 &nbsp; |        | **Multilayer Perceptrons** |
