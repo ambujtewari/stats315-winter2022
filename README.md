@@ -93,5 +93,9 @@ Lecture No. | Date | Topic | Reading Assignment
 --     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
 --     | Mar 29 | Deep learning for text | DLPy, Chap. 11
 --     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
-__     | Apr 05 | 
+--     | Apr 05 | 
+--     | Apr 07 | 
+--     | Apr 12 |
+--     | Apr 14 | 
+--     | Apr 19 | 
 
