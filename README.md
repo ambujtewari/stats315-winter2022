@@ -83,9 +83,9 @@ Lecture No. | Date | Topic | Reading Assignment
 --     |        | Activation Functions | D2L, Sec. 4.1.2
 --     |        | Universal Approximation | NNDL, Chap. 4
 --     |        | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
-&nbsp; |        | **Convolutional Neural Networks and Vision** |
---     |        | Convolutions and Pooling | --
---     |        | Multilayer convolutions | --
-&nbsp; |        | **Sequence Models and Language** |
+&nbsp; |        | **Computer Vision** |
+--     |        | Deep learning for computer vision | DLPy, Chap. 8
+--     |        | Convolutional Neural Networks | D2L, Chap. 6
+&nbsp; |        | **Text** |
 --     |        | -- | --
 
