@@ -76,19 +76,22 @@ Lecture No. | Date | Topic | Reading Assignment
 10     | Feb 08 | Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3 
 11     | Feb 10 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
 &nbsp; |        | **Math Boot Camp** |
---     |        | Linear Algebra | D2L, Sec. 18.1
---     |        | Multivariable Calculus | D2L, Sec. 18.4
+12     | Feb 15 | Linear Algebra | D2L, Sec. 18.1
+13     | Feb 17 | Multivariable Calculus | D2L, Sec. 18.4
 &nbsp; |        | **Multilayer Perceptrons** |
---     |        | Hidden Layers | D2L, Sec. 4.1.1
---     |        | Activation Functions | D2L, Sec. 4.1.2
---     |        | Universal Approximation | NNDL, Chap. 4
---     |        | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
+--     | Feb 22 | Hidden Layers | D2L, Sec. 4.1.1
+--     | Feb 24 | Activation Functions | D2L, Sec. 4.1.2
+--     | Mar 01 | SPRING BREAK |
+--     | Mar 03 | SPRING BREAK |
+--     | Mar 08 | Universal Approximation | NNDL, Chap. 4
+--     | Mar 10 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
 &nbsp; |        | **Computer Vision** |
---     |        | Deep learning for computer vision | DLPy, Chap. 8
---     |        | Convolutional Neural Networks | D2L, Chap. 6
+--     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
+--     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
 &nbsp; |        | **Natural Language Processing** |
---     |        | Deep learning for time series | DLPy, Chap. 10
---     |        | Recurrent Neural Networks | D2L, Chap. 8
---     |        | Deep learning for text | DLPy, Chap. 11
---     |        | Attention Mechanisms | D2L, Chap. 10
+--     | Mar 22 | Deep learning for time series | DLPy, Chap. 10
+--     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
+--     | Mar 29 | Deep learning for text | DLPy, Chap. 11
+--     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
+__     | Apr 05 | 
 
