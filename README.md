@@ -79,23 +79,23 @@ Lecture No. | Date | Topic | Reading Assignment
 12     | Feb 15 | Linear Algebra | D2L, Sec. 18.1
 13     | Feb 17 | Multivariable Calculus | D2L, Sec. 18.4
 &nbsp; |        | **Multilayer Perceptrons** |
---     | Feb 22 | Hidden Layers | D2L, Sec. 4.1.1
---     | Feb 24 | Activation Functions | D2L, Sec. 4.1.2
+14     | Feb 22 | Hidden Layers | D2L, Sec. 4.1.1
+15     | Feb 24 | Activation Functions | D2L, Sec. 4.1.2
 --     | Mar 01 | SPRING BREAK |
 --     | Mar 03 | SPRING BREAK |
---     | Mar 08 | Universal Approximation | NNDL, Chap. 4
---     | Mar 10 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
+16     | Mar 08 | Universal Approximation | NNDL, Chap. 4
+17     | Mar 10 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
 &nbsp; |        | **Computer Vision** |
---     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
---     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
+18     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
+19     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
 &nbsp; |        | **Natural Language Processing** |
---     | Mar 22 | Deep learning for time series | DLPy, Chap. 10
---     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
---     | Mar 29 | Deep learning for text | DLPy, Chap. 11
---     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
---     | Apr 05 | 
---     | Apr 07 | 
---     | Apr 12 |
---     | Apr 14 | 
---     | Apr 19 | 
+20     | Mar 22 | Deep learning for time series | DLPy, Chap. 10
+21     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
+22     | Mar 29 | Deep learning for text | DLPy, Chap. 11
+23     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
+24     | Apr 05 | 
+25     | Apr 07 | 
+26     | Apr 12 |
+27     | Apr 14 | 
+28     | Apr 19 | 
 
