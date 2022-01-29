@@ -88,5 +88,7 @@ Lecture No. | Date | Topic | Reading Assignment
 --     |        | Convolutional Neural Networks | D2L, Chap. 6
 &nbsp; |        | **Natural Language Processing** |
 --     |        | Deep learning for time series | DLPy, Chap. 10
+--     |        | Recurrent Neural Networks | D2L, Chap. 8
 --     |        | Deep learning for text | DLPy, Chap. 11
+--     |        | Attention Mechanisms | D2L, Chap. 10
 
