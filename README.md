@@ -86,6 +86,7 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **Computer Vision** |
 --     |        | Deep learning for computer vision | DLPy, Chap. 8
 --     |        | Convolutional Neural Networks | D2L, Chap. 6
-&nbsp; |        | **Text** |
---     |        | -- | --
+&nbsp; |        | **Natural Language Processing** |
+--     |        | Deep learning for time series | DLPy, Chap. 10
+--     |        | Deep learning for text | DLPy, Chap. 11
 
