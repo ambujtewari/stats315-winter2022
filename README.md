@@ -63,7 +63,7 @@ _Note_: A "V" in the date column denotes a virtual lecture.
 Lecture No. | Date | Topic | Reading Assignment 
 ---         | ---  | ---   | ---               
 &nbsp; |       | **Basics** |
-01     | Jan 06 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1i2g3yoxzL_sciLtKmJrb2EWFRnaFm1vzmzvMSg9oSeo/edit?usp=sharing) | DLPy, Ch. 1 <br/> DL, Ch. 1 <br/> D2L, Ch. 1
+01     | Jan 06 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1i2g3yoxzL_sciLtKmJrb2EWFRnaFm1vzmzvMSg9oSeo/edit?usp=sharing) | DLPy, Chap. 1 <br/> DL, Chap. 1 <br/> D2L, Chap. 1
 02     | Jan 11 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1mlwk7Y89Jmxzn-f22lSIWVZdXLBcaDPBx7VJfLrxLvw/edit?usp=sharing) | D2L, Sec. 3.1.1
 03     | Jan 13 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1oSQes_xa7JhJ7kfsrGuD7RhLnm7tw75AlnNdkCyynL0/edit?usp=sharing) | D2L, Sec. 3.1.1
 04     | Jan 18 <br/> V | Regression wrap-up <br/> Classification <br/> [slides](https://docs.google.com/presentation/d/1MyEGh1iCxWssAIAoI9-XCU-HB2-UBj0mkv-UEv-IY3o/edit?usp=sharing) | D2L, Sec. 3.1.3-4 <br/> D2L, Sec. 3.4.1
@@ -79,10 +79,10 @@ Lecture No. | Date | Topic | Reading Assignment
 --     |        | Linear Algebra | D2L, Sec. 18.1
 --     |        | Multivariable Calculus | D2L, Sec. 18.4
 &nbsp; |        | **Multilayer Perceptrons** |
---     |        | Perceptrons and activation functions | --
---     |        | Multilayer perceptrons, Backprop | --
---     |        | Universal Approximation | --
---     |        | Depth | --
+--     |        | Hidden Layers | D2L, Sec. 4.1.1
+--     |        | Activation Functions | D2L, Sec. 4.1.2
+--     |        | Universal Approximation | NNDL, Chap. 4
+--     |        | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
 &nbsp; |        | **Convolutional Neural Networks and Vision** |
 --     |        | Convolutions and Pooling | --
 --     |        | Multilayer convolutions | --
