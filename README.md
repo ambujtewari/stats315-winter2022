@@ -72,7 +72,7 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
 08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.5
-09     | Feb 03 | Getting started with NNs: Classification <br/> <span style="color:red">Assignment 1 due</span> | DLPy, Sec. 2.1
+09     | Feb 03 | Getting started with NNs: Classification <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) <br/> <span style="color:red">Assignment 1 due</span> | DLPy, Sec. 2.1
 10     | Feb 08 | Machine learning fundamentals | DLPy, Ch. 5 
 &nbsp; |        | **Multilayer Perceptrons** |
 --     |        | Perceptrons and activation functions | --
