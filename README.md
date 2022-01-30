@@ -72,7 +72,7 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
 08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.5
-09     | Feb 03 | Getting started with NNs: Classification <br/> [MNIST notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) <br/> [IMDB notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) <br/> <span style="color:red">Assignment 1 due</span> | DLPy, Sec. 2.1
+09     | Feb 03 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) <br/> Getting started with NNs: Classification IMDB [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) <br/> <span style="color:red">Assignment 1 due</span> | DLPy, Sec. 2.1
 10     | Feb 08 | Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3 
 11     | Feb 10 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
 &nbsp; |        | **Math Boot Camp** |
