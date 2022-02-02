@@ -72,31 +72,31 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
 08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.5
-09     | Feb 03 | CANCELLED | 
+--     | Feb 03 | CANCELLED | 
 --     | Feb 06 | <span style="color:red">Assignment 1 due</span>
-10     | Feb 08 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) <br/> Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing)  <br/> Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 2.1 <br/> DLPy, Sec. 4.3  <br/> DLPy, Sec. 4.3 
-11     | Feb 10 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
+09     | Feb 08 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) <br/> Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing)  <br/> Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 2.1 <br/> DLPy, Sec. 4.3  <br/> DLPy, Sec. 4.3 
+10     | Feb 10 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
 &nbsp; |        | **Math Boot Camp** |
-12     | Feb 15 | Linear Algebra | D2L, Sec. 18.1
-13     | Feb 17 | Multivariable Calculus | D2L, Sec. 18.4
+11     | Feb 15 | Linear Algebra | D2L, Sec. 18.1
+12     | Feb 17 | Multivariable Calculus | D2L, Sec. 18.4
 &nbsp; |        | **Multilayer Perceptrons** |
-14     | Feb 22 | Hidden Layers | D2L, Sec. 4.1.1
-15     | Feb 24 | Activation Functions | D2L, Sec. 4.1.2
+13     | Feb 22 | Hidden Layers | D2L, Sec. 4.1.1
+14     | Feb 24 | Activation Functions | D2L, Sec. 4.1.2
 --     | Mar 01 | SPRING BREAK |
 --     | Mar 03 | SPRING BREAK |
-16     | Mar 08 | Universal Approximation | NNDL, Chap. 4
-17     | Mar 10 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
+15     | Mar 08 | Universal Approximation | NNDL, Chap. 4
+16     | Mar 10 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
 &nbsp; |        | **Computer Vision** |
-18     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
-19     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
+17     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
+18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
 &nbsp; |        | **Natural Language Processing** |
-20     | Mar 22 | Deep learning for time series | DLPy, Chap. 10
-21     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
-22     | Mar 29 | Deep learning for text | DLPy, Chap. 11
-23     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
-24     | Apr 05 | 
-25     | Apr 07 | 
-26     | Apr 12 |
-27     | Apr 14 | 
-28     | Apr 19 | 
+19     | Mar 22 | Deep learning for time series | DLPy, Chap. 10
+20     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
+21     | Mar 29 | Deep learning for text | DLPy, Chap. 11
+22     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
+23     | Apr 05 | 
+24     | Apr 07 | 
+25     | Apr 12 |
+26     | Apr 14 | 
+27     | Apr 19 | 
 
