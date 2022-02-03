@@ -74,29 +74,29 @@ Lecture No. | Date | Topic | Reading Assignment
 08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.5
 --     | Feb 03 | CANCELLED | 
 --     | Feb 06 | <span style="color:red">Assignment 1 due</span>
-09     | Feb 08 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) <br/> Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing)  <br/> Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 2.1 <br/> DLPy, Sec. 4.3  <br/> DLPy, Sec. 4.3 
-10     | Feb 10 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
-&nbsp; |        | **Math Boot Camp** |
-11     | Feb 15 | Linear Algebra | D2L, Sec. 18.1
-12     | Feb 17 | Multivariable Calculus | D2L, Sec. 18.4
-&nbsp; |        | **Multilayer Perceptrons** |
-13     | Feb 22 | Hidden Layers | D2L, Sec. 4.1.1
-14     | Feb 24 | Activation Functions | D2L, Sec. 4.1.2
+09     | Feb 08 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing)
+10     | Feb 10 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) | DLPy, Sec. 2.1
+11     | Feb 15 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) | DLPy, Sec. 4.1
+12     | Feb 17 | Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3
+13     | Feb 22 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
+14     | Feb 24 | Machine learning fundamentals (continued) <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) |
 --     | Mar 01 | SPRING BREAK |
 --     | Mar 03 | SPRING BREAK |
-15     | Mar 08 | Universal Approximation | NNDL, Chap. 4
-16     | Mar 10 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
-&nbsp; |        | **Computer Vision** |
-17     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
-18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
-&nbsp; |        | **Natural Language Processing** |
-19     | Mar 22 | Deep learning for time series | DLPy, Chap. 10
-20     | Mar 24 | Recurrent Neural Networks | D2L, Chap. 8
-21     | Mar 29 | Deep learning for text | DLPy, Chap. 11
-22     | Mar 31 | Attention Mechanisms | D2L, Chap. 10
-23     | Apr 05 | 
-24     | Apr 07 | 
-25     | Apr 12 |
-26     | Apr 14 | 
-27     | Apr 19 | 
+&nbsp; |        | **Math Boot Camp** |
+15     | Mar 08 | Linear Algebra | D2L, Sec. 18.1
+16     | Mar 10 | Multivariable Calculus | D2L, Sec. 18.4
+&nbsp; |        | **Multilayer Perceptrons** |
+17     | Mar 15 | Hidden Layers | D2L, Sec. 4.1.1
+18     | Mar 17 | Activation Functions | D2L, Sec. 4.1.2
 
+19     | Mar 22 | Universal Approximation | NNDL, Chap. 4
+20     | Mar 24 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
+&nbsp; |        | **Computer Vision** |
+21     | Mar 29 | Deep learning for computer vision | DLPy, Chap. 8
+22     | Mar 31 | Convolutional Neural Networks | D2L, Chap. 6
+&nbsp; |        | **Natural Language Processing** |
+23     | Apr 05 | Deep learning for time series | DLPy, Chap. 10
+24     | Apr 07 | Recurrent Neural Networks | D2L, Chap. 8
+25     | Apr 12 | Deep learning for text | DLPy, Chap. 11
+26     | Apr 14 | Attention Mechanisms | D2L, Chap. 10
+27     | Apr 19 | 
