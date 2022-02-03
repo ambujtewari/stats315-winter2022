@@ -88,7 +88,6 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **Multilayer Perceptrons** |
 17     | Mar 15 | Hidden Layers | D2L, Sec. 4.1.1
 18     | Mar 17 | Activation Functions | D2L, Sec. 4.1.2
-
 19     | Mar 22 | Universal Approximation | NNDL, Chap. 4
 20     | Mar 24 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
 &nbsp; |        | **Computer Vision** |
