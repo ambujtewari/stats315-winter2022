@@ -77,7 +77,7 @@ Lecture No. | Date | Topic | Reading Assignment
 09     | Feb 08 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.3-4
 10     | Feb 10 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) | DLPy, Sec. 2.1
 11     | Feb 15 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) | DLPy, Sec. 4.1
-12     | Feb 17 | Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3
+12     | Feb 17 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3
 13     | Feb 22 | Machine learning fundamentals <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Ch. 5 
 14     | Feb 24 | Machine learning fundamentals (continued) <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) |
 --     | Mar 01 | SPRING BREAK |
