@@ -71,7 +71,7 @@ Lecture No. | Date | Topic | Reading Assignment
 06     | Jan 25 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1P4VMvq1TboRZSDMHXc2HopTlSFC28kxw5Sm7BjFgnvI/edit?usp=sharing)|  D2L, Sec. 3.4.6.2-3 <br/> D2L, Sec. 3.4.7
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-4
-08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.1-2 DLPy <br/> Sec. 2.4.4 
+08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 --     | Feb 03 | CANCELLED | 
 --     | Feb 06 | <span style="color:red">Assignment 1 due</span>
 09     | Feb 08 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.3-4
