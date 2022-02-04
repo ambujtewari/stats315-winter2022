@@ -70,11 +70,11 @@ Lecture No. | Date | Topic | Reading Assignment
 05     | Jan 20 <br/> V | Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://docs.google.com/presentation/d/1dJNBtz4V2_fw_pDOK63Ka9igZpLALI2icdvLZi8n4UQ/edit?usp=sharing)|  D2L, Sec. 3.4.2-4 <br/> D2L, Sec. 3.4.6.1 
 06     | Jan 25 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1P4VMvq1TboRZSDMHXc2HopTlSFC28kxw5Sm7BjFgnvI/edit?usp=sharing)|  D2L, Sec. 3.4.6.2-3 <br/> D2L, Sec. 3.4.7
 &nbsp; |        | **TensorFlow/Keras** |
-07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-3.4
-08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 2.4.4 <br/> DLPy, Sec. 3.5
+07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-4
+08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.1-2 DLPy <br/> Sec. 2.4.4 
 --     | Feb 03 | CANCELLED | 
 --     | Feb 06 | <span style="color:red">Assignment 1 due</span>
-09     | Feb 08 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing)
+09     | Feb 08 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.3-4
 10     | Feb 10 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) | DLPy, Sec. 2.1
 11     | Feb 15 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) | DLPy, Sec. 4.1
 12     | Feb 17 | Getting started with NNs: Regression <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3
