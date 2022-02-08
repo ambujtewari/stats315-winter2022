@@ -82,6 +82,7 @@ Lecture No. | Date | Topic | Reading Assignment
 14     | Feb 24 | Improving model fit and generalization <br/> [notebook](https://colab.research.google.com/drive/1zLs_U_gwYu6cJVjHmCOaA0wsV-CgKaDH?usp=sharing) | DLPy, Sec. 5.3-4
 --     | Mar 01 | SPRING BREAK |
 --     | Mar 03 | SPRING BREAK |
+--     | Mar 07 | <span style="color:red">Assignment 2 due</span>
 &nbsp; |        | **Math Boot Camp** |
 15     | Mar 08 | Linear Algebra | D2L, Sec. 18.1
 16     | Mar 10 | Multivariable Calculus | D2L, Sec. 18.4
