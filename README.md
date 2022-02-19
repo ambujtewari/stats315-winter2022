@@ -79,7 +79,7 @@ Lecture No. | Date | Topic | Reading Assignment
 11     | Feb 15 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) | DLPy, Sec. 4.1
 12     | Feb 17 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1RWw-WaszqBGazJe81NQ1-ezn0FxbSCgF?usp=sharing) | DLPy, Sec. 4.3
 13     | Feb 22 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1PWo49STp9ITm_uV-AtET-FsnzUExKcwt?usp=sharing) | DLPy, Sec. 5.1-2
-14     | Feb 24 | Improving model fit and generalization <br/> [notebook](https://colab.research.google.com/drive/1zLs_U_gwYu6cJVjHmCOaA0wsV-CgKaDH?usp=sharing) | DLPy, Sec. 5.3-4
+14     | Feb 24 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1zLs_U_gwYu6cJVjHmCOaA0wsV-CgKaDH?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 --     | Mar 01 | SPRING BREAK |
 --     | Mar 03 | SPRING BREAK |
 --     | Mar 07 | <span style="color:red">Assignment 2 due</span>
