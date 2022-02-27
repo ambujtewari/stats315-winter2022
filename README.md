@@ -84,7 +84,7 @@ Lecture No. | Date | Topic | Reading Assignment
 --     | Mar 03 | SPRING BREAK |
 --     | Mar 07 | <span style="color:red">Assignment 2 due</span>
 &nbsp; |        | **Math Boot Camp** |
-15     | Mar 08 | Linear Algebra | D2L, Sec. 18.1
+15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1
 16     | Mar 10 | Multivariable Calculus | D2L, Sec. 18.4
 &nbsp; |        | **Multilayer Perceptrons** |
 17     | Mar 15 | Hidden Layers | D2L, Sec. 4.1.1
