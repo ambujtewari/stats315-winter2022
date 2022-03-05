@@ -86,17 +86,17 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **Math Boot Camp** |
 15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-7 <br/> D2L, Sec. 18.1.9
 16     | Mar 10 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
-&nbsp; |        | **Multilayer Perceptrons** |
-17     | Mar 15 | Hidden Layers | D2L, Sec. 4.1.1
-18     | Mar 17 | Activation Functions | D2L, Sec. 4.1.2
-19     | Mar 22 | Universal Approximation | NNDL, Chap. 4
-20     | Mar 24 | Forward Propagation, Backward Propagation, and Computational Graphs | D2L, Sec. 4.7
 &nbsp; |        | **Computer Vision** |
-21     | Mar 29 | Deep learning for computer vision | DLPy, Chap. 8
-22     | Mar 31 | Convolutional Neural Networks | D2L, Chap. 6
+17     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
+18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
+19     | Mar 22 |  | 
+20     | Mar 24 |  |
+21     | Mar 29 |  | 
+22     | Mar 31 |  | 
 &nbsp; |        | **Natural Language Processing** |
 23     | Apr 05 | Deep learning for time series | DLPy, Chap. 10
 24     | Apr 07 | Recurrent Neural Networks | D2L, Chap. 8
 25     | Apr 12 | Deep learning for text | DLPy, Chap. 11
 26     | Apr 14 | Attention Mechanisms | D2L, Chap. 10
-27     | Apr 19 | 
+&nbsp; |        | **Universal Approximation** |
+27     | Apr 19 | Universal Approximation | NNDL, Chap. 4
