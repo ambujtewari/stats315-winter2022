@@ -85,7 +85,7 @@ Lecture No. | Date | Topic | Reading Assignment
 --     | Mar 07 | <span style="color:red">Assignment 2 due</span>
 &nbsp; |        | **Math Boot Camp** |
 15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-7 <br/> D2L, Sec. 18.1.9
-16     | Mar 10 | Multivariable Calculus | D2L, Sec. 18.4
+16     | Mar 10 | Multivariable Calculus <br?> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 &nbsp; |        | **Multilayer Perceptrons** |
 17     | Mar 15 | Hidden Layers | D2L, Sec. 4.1.1
 18     | Mar 17 | Activation Functions | D2L, Sec. 4.1.2
