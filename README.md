@@ -89,7 +89,6 @@ Lecture No. | Date | Topic | Reading Assignment
 17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |        | **Computer Vision** |
 18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
-
 19     | Mar 22 | Deep learning for computer vision | DLPy, Chap. 8
 20     | Mar 24 |  |
 21     | Mar 29 |  |
