@@ -84,13 +84,13 @@ Lecture No. | Date | Topic | Reading Assignment
 --     | Mar 03 | SPRING BREAK |
 --     | Mar 07 | <span style="color:red">Assignment 2 due</span>
 &nbsp; |        | **Math Boot Camp** |
-15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-7 <br/> D2L, Sec. 18.1.9
-16     | Mar 10 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
+15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-2
+16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.3-5 
+17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
+18     | Mar 17 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 &nbsp; |        | **Computer Vision** |
-17     | Mar 15 | Deep learning for computer vision | DLPy, Chap. 8
-18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
-19     | Mar 22 |  | 
-20     | Mar 24 |  |
+19     | Mar 22 | Deep learning for computer vision | DLPy, Chap. 8
+20     | Mar 24 | Convolutional Neural Networks | D2L, Chap. 6
 21     | Mar 29 |  | 
 22     | Mar 31 |  | 
 &nbsp; |        | **Natural Language Processing** |
