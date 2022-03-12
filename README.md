@@ -87,7 +87,7 @@ Lecture No. | Date | Topic | Reading Assignment
 16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) <br/> <span style="color:red">Assignment 2 due</span> | D2L, Sec. 18.1.3-5 
 17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |        | **Computer Vision** |
-18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
+18     | Mar 17 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1qq6NaNSZEbt3sjqX4cCAYEUjHn1nEo25?usp=sharing) | D2L, Sec. 6.1
 19     | Mar 22 | Deep learning for computer vision | DLPy, Chap. 8
 20     | Mar 24 |  |
 21     | Mar 29 |  |
