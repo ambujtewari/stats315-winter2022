@@ -82,10 +82,9 @@ Lecture No. | Date | Topic | Reading Assignment
 14     | Feb 24 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1zLs_U_gwYu6cJVjHmCOaA0wsV-CgKaDH?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 --     | Mar 01 | SPRING BREAK |
 --     | Mar 03 | SPRING BREAK |
---     | Mar 07 | <span style="color:red">Assignment 2 due</span>
 &nbsp; |        | **Linear Algebra Boot Camp** |
 15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-2
-16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.3-5 
+16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) <br/> <span style="color:red">Assignment 2 due</span> | D2L, Sec. 18.1.3-5 
 17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |        | **Computer Vision** |
 18     | Mar 17 | Convolutional Neural Networks | D2L, Chap. 6
