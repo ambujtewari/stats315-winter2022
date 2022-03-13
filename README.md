@@ -92,11 +92,11 @@ Lecture No. | Date | Topic | Reading Assignment
 20     | Mar 24 | Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/1HBhms_RBqmqr_lUEKcd7MiyAs_zdrNaA?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/1wDPtqbjSFEnW8ebjB5z4r7twL93y2OFY?usp=sharing) | D2L, Sec. 6.3-4
 21     | Mar 29 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1x4strUhdYnER0NWBXl9JE1DK4XtdH_rq?usp=sharing) <br/> LeNet <br/> [notebook](https://colab.research.google.com/drive/1zKtu7pH2qPb_5DCCMNJ5BhlpfzY7-9I5?usp=sharing) | D2L, Sec. 6.5-6
 &nbsp; |        | **Natural Language Processing** |
-22     | Mar 31 | Sequence Models <br/> <span style="color:red">Assignment 3 due</span> | D2L, Sec. 8.1
-23     | Apr 05 | Text Preprocessing <br/> Language Models and the Dataset | D2L, Sec. 8.2-3
-24     | Apr 07 | Recurrent Neural Networks | D2L. Sec. 8.4
-25     | Apr 12 | Concise Implementation of Recurrent Neural Networks | D2L, Sec. 8.6
+22     | Mar 31 | A temperature-forecasting example <br/> <span style="color:red">Assignment 3 due</span> | DLPy, Sec. 10.2
+23     | Apr 05 | Understanding recurrent neural networks | DLPy, Sec. 10.3
+24     | Apr 07 | Advanced use of recurrent neural networks | DLPy, Sec. 10.4
+25     | Apr 12 | |
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 26     | Apr 14 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
-27     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
+27     | Apr 19 | |
 
