@@ -91,7 +91,7 @@ Lecture No. | Date | Topic | Reading Assignment
 19     | Mar 22 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1YYVG1swme5zom6aajkwCPPbLuZZ6WY5J?usp=sharing) | D2L, Sec. 6.2
 20     | Mar 24 | Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/1HBhms_RBqmqr_lUEKcd7MiyAs_zdrNaA?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/1wDPtqbjSFEnW8ebjB5z4r7twL93y2OFY?usp=sharing) | D2L, Sec. 6.3-4
 21     | Mar 29 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1x4strUhdYnER0NWBXl9JE1DK4XtdH_rq?usp=sharing) <br/> LeNet <br/> [notebook](https://colab.research.google.com/drive/1zKtu7pH2qPb_5DCCMNJ5BhlpfzY7-9I5?usp=sharing) | D2L, Sec. 6.5-6
-&nbsp; |        | **Natural Language Processing** |
+&nbsp; |        | **Deep Learning for Time Series** |
 22     | Mar 31 | A temperature-forecasting example <br/> <span style="color:red">Assignment 3 due</span> | DLPy, Sec. 10.2
 23     | Apr 05 | Understanding recurrent neural networks | DLPy, Sec. 10.3
 24     | Apr 07 | Advanced use of recurrent neural networks | DLPy, Sec. 10.4
