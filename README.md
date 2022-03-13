@@ -95,8 +95,8 @@ Lecture No. | Date | Topic | Reading Assignment
 22     | Mar 31 | A temperature-forecasting example <br/> <span style="color:red">Assignment 3 due</span> | DLPy, Sec. 10.2
 23     | Apr 05 | Understanding recurrent neural networks | DLPy, Sec. 10.3
 24     | Apr 07 | Advanced use of recurrent neural networks | DLPy, Sec. 10.4
-25     | Apr 12 | |
+25     | Apr 12 | Recurrent Neural Networks | D2L, Sec. 8.4
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 26     | Apr 14 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
-27     | Apr 19 | |
+27     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
 
