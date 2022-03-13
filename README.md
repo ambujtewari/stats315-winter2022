@@ -90,7 +90,7 @@ Lecture No. | Date | Topic | Reading Assignment
 18     | Mar 17 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1qq6NaNSZEbt3sjqX4cCAYEUjHn1nEo25?usp=sharing) | D2L, Sec. 6.1
 19     | Mar 22 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1YYVG1swme5zom6aajkwCPPbLuZZ6WY5J?usp=sharing) | D2L, Sec. 6.2
 20     | Mar 24 | Padding and Stride <br/> Multiple Input and Multiple Output Channels | D2L, Sec. 6.3-4
-21     | Mar 29 |  |
+21     | Mar 29 | Pooling <br/> LeNet | D2L, Sec. 6.5-6
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 22     | Mar 31 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 &nbsp; |        | **Natural Language Processing** |
