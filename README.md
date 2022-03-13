@@ -36,7 +36,7 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 ## Grading
 
 - Weekly quizzes (60%): We will only use your top 10 scores
-- Homeworks (40%): Four homeworks with a substantial coding component
+- Homeworks (40%): Four homework assignments with a substantial coding component
 
 ## Academic Integrity
 
@@ -92,7 +92,7 @@ Lecture No. | Date | Topic | Reading Assignment
 20     | Mar 24 | Padding and Stride <br/> Multiple Input and Multiple Output Channels | D2L, Sec. 6.3-4
 21     | Mar 29 | Pooling <br/> LeNet | D2L, Sec. 6.5-6
 &nbsp; |        | **Natural Language Processing** |
-22     | Mar 31 | Sequence Models | D2L, Sec. 8.1
+22     | Mar 31 | Sequence Models <br/> <span style="color:red">Assignment 3 due</span> | D2L, Sec. 8.1
 23     | Apr 05 | Text Preprocessing <br/> Language Models and the Dataset | D2L, Sec. 8.2-3
 24     | Apr 07 | Recurrent Neural Networks | D2L. Sec. 8.4
 25     | Apr 12 | Concise Implementation of Recurrent Neural Networks | D2L, Sec. 8.6
