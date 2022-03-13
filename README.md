@@ -91,12 +91,12 @@ Lecture No. | Date | Topic | Reading Assignment
 19     | Mar 22 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1YYVG1swme5zom6aajkwCPPbLuZZ6WY5J?usp=sharing) | D2L, Sec. 6.2
 20     | Mar 24 | Padding and Stride <br/> Multiple Input and Multiple Output Channels | D2L, Sec. 6.3-4
 21     | Mar 29 | Pooling <br/> LeNet | D2L, Sec. 6.5-6
-&nbsp; |        | **Multivariable Calculus Boot Camp** |
-22     | Mar 31 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 &nbsp; |        | **Natural Language Processing** |
-23     | Apr 05 | Deep learning for time series | DLPy, Chap. 10
-24     | Apr 07 | Recurrent Neural Networks | D2L, Chap. 8
-25     | Apr 12 | Deep learning for text | DLPy, Chap. 11
-26     | Apr 14 | Attention Mechanisms | D2L, Chap. 10
-&nbsp; |        | **Universal Approximation** |
-27     | Apr 19 | Universal Approximation | NNDL, Chap. 4
+22     | Mar 31 | Sequence Models | D2L, Sec. 8.1
+23     | Apr 05 | Text Preprocessing <br/> Language Models and the Dataset | D2L, Sec. 8.2-3
+24     | Apr 07 | Recurrent Neural Networks | D2L. Sec. 8.4
+25     | Apr 12 | Concise Implementation of Recurrent Neural Networks | D2L, Sec. 8.6
+&nbsp; |        | **Multivariable Calculus Boot Camp** |
+26     | Apr 14 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
+27     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
+
