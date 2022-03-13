@@ -86,10 +86,10 @@ Lecture No. | Date | Topic | Reading Assignment
 15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-2
 16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) <br/> <span style="color:red">Assignment 2 due</span> | D2L, Sec. 18.1.3-5 
 17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
-&nbsp; |        | **Computer Vision** |
+&nbsp; |        | **Convolutional Neural Networks** |
 18     | Mar 17 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1qq6NaNSZEbt3sjqX4cCAYEUjHn1nEo25?usp=sharing) | D2L, Sec. 6.1
 19     | Mar 22 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1YYVG1swme5zom6aajkwCPPbLuZZ6WY5J?usp=sharing) | D2L, Sec. 6.2
-20     | Mar 24 | Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/1HBhms_RBqmqr_lUEKcd7MiyAs_zdrNaA?usp=sharing) <br/> Multiple Input and Multiple Output Channels [notebook](https://colab.research.google.com/drive/1wDPtqbjSFEnW8ebjB5z4r7twL93y2OFY?usp=sharing) | D2L, Sec. 6.3-4
+20     | Mar 24 | Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/1HBhms_RBqmqr_lUEKcd7MiyAs_zdrNaA?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/1wDPtqbjSFEnW8ebjB5z4r7twL93y2OFY?usp=sharing) | D2L, Sec. 6.3-4
 21     | Mar 29 | Pooling <br/> LeNet | D2L, Sec. 6.5-6
 &nbsp; |        | **Natural Language Processing** |
 22     | Mar 31 | Sequence Models <br/> <span style="color:red">Assignment 3 due</span> | D2L, Sec. 8.1
