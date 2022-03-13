@@ -88,8 +88,8 @@ Lecture No. | Date | Topic | Reading Assignment
 17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |        | **Computer Vision** |
 18     | Mar 17 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1qq6NaNSZEbt3sjqX4cCAYEUjHn1nEo25?usp=sharing) | D2L, Sec. 6.1
-19     | Mar 22 | Deep learning for computer vision | DLPy, Chap. 8
-20     | Mar 24 |  |
+19     | Mar 22 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1YYVG1swme5zom6aajkwCPPbLuZZ6WY5J?usp=sharing) | D2L, Sec. 6.2
+20     | Mar 24 | Deep learning for computer vision | DLPy, Chap. 8
 21     | Mar 29 |  |
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 22     | Mar 31 | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
