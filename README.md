@@ -92,8 +92,8 @@ Lecture No. | Date | Topic | Reading Assignment
 20     | Mar 24 | CANCELLED | 
 21     | Mar 29 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1x4strUhdYnER0NWBXl9JE1DK4XtdH_rq?usp=sharing) <br/> LeNet <br/> [notebook](https://colab.research.google.com/drive/1zKtu7pH2qPb_5DCCMNJ5BhlpfzY7-9I5?usp=sharing) | D2L, Sec. 6.5-6
 &nbsp; |        | **Deep Learning for Time Series** |
-22     | Mar 31 | CANCELLED |
-23     | Apr 05 | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) <br/> <span style="color:red">Assignment 3 due</span> | DLPy, Sec. 10.2
+22     | Mar 31 | CANCELLED <br/> <span style="color:red">Assignment 3 due</span> |
+23     | Apr 05 | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
 24     | Apr 07 | Understanding recurrent neural networks | DLPy, Sec. 10.3
 25     | Apr 12 | Advanced use of recurrent neural networks | DLPy, Sec. 10.4
 26     | Apr 14 | Recurrent Neural Networks | D2L, Sec. 8.4
