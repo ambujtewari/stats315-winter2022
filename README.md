@@ -99,5 +99,5 @@ Lecture No. | Date | Topic | Reading Assignment
 26     | Apr 14 | Recurrent Neural Networks | D2L, Sec. 8.4
 27     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
-       |        | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
+&nbsp; |        | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 
