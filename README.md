@@ -73,7 +73,7 @@ Lecture No. | Date | Topic | Reading Assignment
 07     | Jan 27 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.1-4
 08     | Feb 01 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 --     | Feb 03 | CANCELLED | 
---     | Feb 06 | <span style="color:red">Assignment 1 due</span>
+--     | Feb 06 | <span style="color:red">HW 1 due</span>
 09     | Feb 08 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/158clJ-gSasbyIFB4Cg8tSj_sXq_W2zbR?usp=sharing) | DLPy, Sec. 3.5.3-4
 10     | Feb 10 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1S5zTo1gkfhkcKCXTicIlmGq8WPmYo3pZ?usp=sharing) | DLPy, Sec. 2.1
 11     | Feb 15 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iXR9tg32xqCo0tu3USKGGMCV9EXF3lKF?usp=sharing) | DLPy, Sec. 4.1
@@ -84,7 +84,7 @@ Lecture No. | Date | Topic | Reading Assignment
 --     | Mar 03 | SPRING BREAK |
 &nbsp; |        | **Linear Algebra Boot Camp** |
 15     | Mar 08 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.1-2
-16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) <br/> <span style="color:red">Assignment 2 due</span> | D2L, Sec. 18.1.3-5 
+16     | Mar 10 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) <br/> <span style="color:red">HW 2 due</span> | D2L, Sec. 18.1.3-5 
 17     | Mar 15 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1Jff1QTe9LKAa9B4bIVk-ItnHIT8FBzqH?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |        | **Convolutional Neural Networks** |
 18     | Mar 17 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1qq6NaNSZEbt3sjqX4cCAYEUjHn1nEo25?usp=sharing) | D2L, Sec. 6.1
@@ -92,12 +92,13 @@ Lecture No. | Date | Topic | Reading Assignment
 20     | Mar 24 | CANCELLED | 
 21     | Mar 29 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1x4strUhdYnER0NWBXl9JE1DK4XtdH_rq?usp=sharing) <br/> LeNet <br/> [notebook](https://colab.research.google.com/drive/1zKtu7pH2qPb_5DCCMNJ5BhlpfzY7-9I5?usp=sharing) | D2L, Sec. 6.5-6
 &nbsp; |        | **Deep Learning for Time Series** |
-22     | Mar 31 | CANCELLED <br/> <span style="color:red">Assignment 3 due</span> |
+22     | Mar 31 | CANCELLED <br/> <span style="color:red">HW 3 due</span> |
 23     | Apr 05 | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
 24     | Apr 07 | Understanding recurrent neural networks | DLPy, Sec. 10.3
 25     | Apr 12 | Advanced use of recurrent neural networks | DLPy, Sec. 10.4
 26     | Apr 14 | Recurrent Neural Networks | D2L, Sec. 8.4
 27     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
+&nbsp; | APr 25 | <span style="color:red">HW 4 due</span> 
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 &nbsp; |        | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 
