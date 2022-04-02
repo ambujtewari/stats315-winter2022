@@ -98,7 +98,7 @@ Lecture No. | Date | Topic | Reading Assignment
 25     | Apr 12 | Advanced use of recurrent neural networks | DLPy, Sec. 10.4
 26     | Apr 14 | Recurrent Neural Networks | D2L, Sec. 8.4
 27     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
-&nbsp; | APr 25 | <span style="color:red">HW 4 due</span> 
+&nbsp; | Apr 25 | <span style="color:red">HW 4 due</span> 
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 &nbsp; |        | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
 
