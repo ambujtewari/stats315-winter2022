@@ -94,10 +94,10 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **Deep Learning for Time Series** |
 --     | Mar 31 | CANCELLED <br/> <span style="color:red">HW 3 due</span> |
 21     | Apr 05 <br/> V | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
-22     | Apr 07 | Understanding recurrent neural networks <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.3
-23     | Apr 12 | Advanced use of recurrent neural networks  <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.4
-24     | Apr 14 | Recurrent Neural Networks | D2L, Sec. 8.4
-25     | Apr 19 | Backpropagation Through Time | D2L, Sec. 8.7
+22     | Apr 05 <br/> V | A temperature-forecasting example (continued) <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
+23     | Apr 12 | Understanding recurrent neural networks <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.3
+24     | Apr 14 | Advanced use of recurrent neural networks  <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.4
+25     | Apr 19 | Recurrent Neural Networks | D2L, Sec. 8.4
 &nbsp; | Apr 25 | <span style="color:red">HW 4 due</span> 
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 &nbsp; |        | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
