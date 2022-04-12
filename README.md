@@ -97,7 +97,7 @@ Lecture No. | Date | Topic | Reading Assignment
 22     | Apr 07 | A temperature-forecasting example (continued) <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
 23     | Apr 12 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
 24     | Apr 14 | Recurrent Neural Networks <br/> [notebook](https://colab.research.google.com/drive/1nVyijPFe9fJOt9mBdUa1qKqNos8JWGcg?usp=sharing) |  D2L, Sec. 8.4
-25     | Apr 19 | Ask Me Anything! |
+25     | Apr 19 | Course Conclusion <br/> Ask Me Anything! |
 &nbsp; | Apr 25 | <span style="color:red">HW 4 due</span> 
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
 &nbsp; |        | Multivariable Calculus <br/> [notebook](https://colab.research.google.com/drive/1u-MlftcLbH7xMGielwGxUQ9XAQDXiQKD?usp=sharing) | D2L, Sec. 18.4
