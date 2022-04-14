@@ -96,7 +96,7 @@ Lecture No. | Date | Topic | Reading Assignment
 21     | Apr 05 <br/> V | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
 22     | Apr 07 | A temperature-forecasting example (continued) <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.2
 23     | Apr 12 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://colab.research.google.com/drive/1UFfFz2M79i8H2Ug2CDeP6OART73UG975?usp=sharing) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
-24     | Apr 14 | Recurrent Neural Networks <br/> [notebook](https://colab.research.google.com/drive/1nVyijPFe9fJOt9mBdUa1qKqNos8JWGcg?usp=sharing) <br/> Backpropagation Through Time <br/> [notebook](https://colab.research.google.com/drive/1i4dxYyKWzGZHU9T1S4Wi3sH1-zhjLL3Z?usp=sharing) |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
+24     | Apr 14 | Recurrent Neural Networks <br/> [notebook](https://colab.research.google.com/drive/1nVyijPFe9fJOt9mBdUa1qKqNos8JWGcg?usp=sharing) <br/> Backpropagation Through Time <br/> [notebook](https://colab.research.google.com/drive/1i4dxYyKWzGZHU9T1S4Wi3sH1-zhjLL3Z?usp=sharing) <br/> V |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 19 | Course Conclusion <br/> Ask Me Anything! |
 &nbsp; | Apr 25 | <span style="color:red">HW 4 due</span> 
 &nbsp; |        | **Multivariable Calculus Boot Camp** |
